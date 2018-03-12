@@ -1,0 +1,21 @@
+{
+  "name": "analysis",
+  "version": "0.0.0",
+  "description": "N/A",
+  "main": "index.js",
+  "scripts": {
+    "do": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "chalk": "^2.3.2",
+    "commander": "^2.15.0",
+    "eslint": "^4.18.2",
+    "moment": "^2.21.0",
+    "winston": "^3.0.0-rc2"
+  }
+}
